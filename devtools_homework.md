@@ -1,4 +1,4 @@
-Link to the video: https://drive.google.com/file/d/1bM8QL37O-C3w_1HP0nBGS1WQd2ShoroI/view?usp=drive_link
+[Link to the video](https://drive.google.com/file/d/1bM8QL37O-C3w_1HP0nBGS1WQd2ShoroI/view?usp=drive_link)
 
 1. Открыть сайт http://itcareer.pythonanywhere.com/
  1. Открыть Chrome DevTools
