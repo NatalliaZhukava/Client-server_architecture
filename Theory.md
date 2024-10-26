@@ -1,4 +1,4 @@
-# [ОТВЕТЫ НА ВОПРОСЫ]()
+# [ССЫЛКА НА ДОКУМЕНТ С ОТВЕТАМИ](https://docs.google.com/document/d/1s7JTXEsdLf7_R3_dC6Tr6bNqsNrPyPGHLPrMimmGwV4/edit?tab=t.0)
 
 # СОДЕРЖАНИЕ
 1. Что такое клиент? Приведи пример, что может быть клиентом.  
